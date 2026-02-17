@@ -32,7 +32,7 @@ The webpage focuses on clean UI, smooth animations, and responsive design to cre
 🔴 Live Demo
 
 <p align="center">
-  <a href="PASTE_YOUR_LINK_HERE">
+  <a href="https://yuvraj-singh-001.github.io/landing-page/">
     <img src="https://img.shields.io/badge/CLICK%20TO%20VIEW-LIVE%20DEMO-red?style=for-the-badge&logo=github">
   </a>
 </p>---
