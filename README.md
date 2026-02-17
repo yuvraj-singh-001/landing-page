@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Landing%20Page-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Company-Grothera%20Softech-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Company-Growthera%20Softech-purple?style=for-the-badge">
 </p>---
 
 🚀 About The Project
